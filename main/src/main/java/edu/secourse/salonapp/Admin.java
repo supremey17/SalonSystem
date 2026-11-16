@@ -1,4 +1,4 @@
 package edu.secourse.salonapp;
 
-public class Admin {
+public class Users {
 }
