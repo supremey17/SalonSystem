@@ -3,7 +3,7 @@ package edu.secourse.salonapp.models;
 public class Stylist extends User {
     private String specialty;
 
-    public Stylist(int id, String name, String email, String phone) {
+    public Stylist(int id, String name, String email, String phone, String specialty) {
         super(id, name, email, phone);
         this.specialty = specialty;
     }
